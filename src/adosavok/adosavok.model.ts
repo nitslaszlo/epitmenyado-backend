@@ -1,7 +1,7 @@
 // https://mongoosejs.com/docs/validation.html#built-in-validators
 
 import { Schema, model } from "mongoose";
-import IAdosavok from "./adosavok.unterface";
+import IAdosavok from "./adosavok.interface";
 
 const adosavokSchema = new Schema<IAdosavok>(
     {
@@ -9,6 +9,10 @@ const adosavokSchema = new Schema<IAdosavok>(
         sav: {
             type: String,
             required: true,
+            unique: true,
+            trim: true,
+            minlength: 1,
+            maxlength: 1,
         },
         ado: {
             type: Number,
