@@ -1,0 +1,1096 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "REST API Építményadó feladat - backend",
+        "version": "1.0.0",
+        "description": "<img alt='HaHu' height='400px' src='https://nitslaszlo.github.io/static/epitmenyado/db_diagram.jpg' />"
+    },
+    "servers": [
+        {
+            "url": "https://epitmenyado.cyclic.app"
+        },
+        {
+            "url": "http://localhost:5000"
+        }
+    ],
+    "paths": {
+        "/adosavok": {
+            "get": {
+                "tags": ["adosavok"],
+                "summary": "Összes adósáv lekérdezése.",
+                "description": "Az összesadósávadatát tudjuk lekérdezni.",
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/adosavok"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "post": {
+                "tags": ["adosavok"],
+                "summary": "Új adósáv mentése.",
+                "description": "Új adósáv mentése a 'kategoriak' táblában",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "$ref": "#/components/schemas/adosavok"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "OK (Az új, elmentett adósávval tér vissza.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/adosavok"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/adosavok/{id}": {
+            "get": {
+                "tags": ["adosavok"],
+                "summary": "Egy adósáv lekérdezése.",
+                "description": "Az id paraméterben megadott adósáv adatait kérdezhetjük le.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "Az adósáv azonosítója.",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 2
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/adosavok"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Ezzel az azonosítóval (id) nincs adósáv!"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "patch": {
+                "tags": ["adosavok"],
+                "summary": "Adósáv módosítása (PATCH).",
+                "description": "A paraméterben megadott adósáv adatait módosítja a végpont.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "A PATCH metódussal módosítandó adósáv azonosítója (PK).",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 3
+                        },
+                        "required": true
+                    }
+                ],
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "$ref": "#/components/schemas/adosavok"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "OK (A módosított adósáv adataival tér vissza.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/adosavok"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "A megadottadósáv(id) nem létezik."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "put": {
+                "tags": ["adosavok"],
+                "summary": "Adósáv módosítása (PUT).",
+                "description": "A paraméterben megadott adósáv adatait módosítja a végpont.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "A PUT metódussal módosítandó adósáv azonosítója (PK).",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 3
+                        },
+                        "required": true
+                    }
+                ],
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "$ref": "#/components/schemas/adosavok"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "OK (A módosított adósáv adataival tér vissza.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/adosavok"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "A megadott adósáv (id) nem létezik."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "delete": {
+                "tags": ["adosavok"],
+                "summary": "post törlése.",
+                "description": "A paraméterben megadott adósávot törli a végpont.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "A törlendő adósáv azonosítója (PK).",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 99
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK (Az adósáv törölve.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "string",
+                                    "example": "OK"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "A megadott adósáv (id) nem létezik."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "409": {
+                        "description": "Conflict",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "A megadott (id) adósávra még hivatkoznak, nem törölhető!"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/adosavok/{sav}/hirdetesek": {
+            "get": {
+                "tags": ["adosavok"],
+                "summary": "Ingatlanok lekérdezése postnév szerint.",
+                "description": "A 'sav' paraméterben megadott adósávval és a adósáv összes ingatlanával tér vissza a végpont.",
+                "parameters": [
+                    {
+                        "name": "kategoriaNev",
+                        "description": "Az adósáv neve.",
+                        "in": "path",
+                        "schema": {
+                            "type": "string",
+                            "example": "Személyautó"
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/adosavok"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Ebben az adósávban nem találtam ingatlant!"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/utcak": {
+            "get": {
+                "tags": ["utcak"],
+                "summary": "Összes ingatlan lekérdezése.",
+                "description": "Az összes ingatlan adatát tudjuk lekérdezni.",
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/utcak"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "post": {
+                "tags": ["utcak"],
+                "summary": "Új ingatlan mentése.",
+                "description": "Az új ingatlan mentése az 'utcak' táblában",
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "$ref": "#/components/schemas/user"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "OK (Az új, elmentett ingatlannal tér vissza.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/utcak"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/utcak/{id}": {
+            "get": {
+                "tags": ["utcak"],
+                "summary": "Egy ingatlan lekérdezése.",
+                "description": "Az id paraméterben megadott ingatlan adatait kérdezhetjük le.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "A ingatlan azonosítója.",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 2
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/utcak"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "Ezzel az azonosítóval (id) nincs ingatlan!"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "patch": {
+                "tags": ["utcak"],
+                "summary": "recept módosítása (PATCH).",
+                "description": "A paraméterben megadott ingatlan adatait módosítja a végpont.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "A PATCH metódussal módosítandó ingatlan azonosítója (PK).",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 3
+                        },
+                        "required": true
+                    }
+                ],
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "$ref": "#/components/schemas/utcak"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "OK (A módosított ingatlannal tér vissza.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/utcak"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "A megadott ingatlan (id) nem létezik."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "put": {
+                "tags": ["utcak"],
+                "summary": "recept módosítása (PUT).",
+                "description": "A paraméterben megadott ingatlan adatait módosítja a végpont.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "A PUT metódussal módosítandó ingatlan azonosítója (PK).",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 3
+                        },
+                        "required": true
+                    }
+                ],
+                "requestBody": {
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "$ref": "#/components/schemas/utcak"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "OK (A módosított ingatlannal tér vissza.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "$ref": "#/components/schemas/utcak"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "A megadott ingatlan (id) nem létezik."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "delete": {
+                "tags": ["utcak"],
+                "summary": "recept törlése.",
+                "description": "A paraméterben megadott ingatlant törli a végpont.",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "description": "A törlendő ingatlan azonosítója (PK).",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": 99
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK (Az ingatlan törölve.)",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "string",
+                                    "example": "OK"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Not Found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "A megadott ingatlan (id) nem létezik."
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/utcak/order/:mezo": {
+            "get": {
+                "tags": ["utcak"],
+                "summary": "Összes ingatlan lekérdezése rendezéssel.",
+                "description": "Az összes ingatlan adatát tudjuk lekérdezni és a paraméterben megadott mező szerint rendezni.",
+                "parameters": [
+                    {
+                        "name": "mezo",
+                        "description": "Mező, amely szerint rendezni kell, a '-' karakter a mező neve előtt a csökkenő rendezést kódolja.",
+                        "in": "path",
+                        "schema": {
+                            "type": "string",
+                            "example": "-arFt"
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/utcak"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/utcak/keyword/{keyword}": {
+            "get": {
+                "tags": ["utcak"],
+                "summary": "Kulcsszavas szűrés mindkét táblából.",
+                "description": "Azok az ingatlanok, melyek utcanevében, vagy adószámában megtalálható a megadott kulcsszó.",
+                "parameters": [
+                    {
+                        "name": "keyword",
+                        "description": "Kulcsszó, melyet keresünk a mezőkben (bárhol lehet a mezőn belül, OR kapcsolat).",
+                        "in": "path",
+                        "schema": {
+                            "type": "string",
+                            "example": "gép"
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/utcak"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/utcak/{offset}/{limit}/{field}": {
+            "get": {
+                "tags": ["utcak"],
+                "summary": "Paginált adatok lekérése.",
+                "description": "Ingatlanok lekérdezése lapozáshoz.",
+                "parameters": [
+                    {
+                        "name": "offset",
+                        "description": "Ennyi rekordot hagyunk el (skip) a lekérdezés 'elejéről'.",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": "5"
+                        },
+                        "required": true
+                    },
+                    {
+                        "name": "limit",
+                        "description": "Ennyi rekordot küld (take) maximum az API",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": "5"
+                        },
+                        "required": true
+                    },
+                    {
+                        "name": "field",
+                        "description": "Melyik mező szerint legyenek rendezve a rekordok. A kötőjel '-' karakter a csökkenő rendezést jelöli.",
+                        "in": "path",
+                        "schema": {
+                            "type": "string",
+                            "example": "-cim"
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "count": {
+                                            "type": "number",
+                                            "description": "Az összes rekord száma.",
+                                            "example": "16"
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "description": "A maximum {limit} számú rekord.",
+                                            "items": {
+                                                "$ref": "#/components/schemas/utcak"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/utcak/{offset}/{limit}/{field}/{filter}": {
+            "get": {
+                "tags": ["utcak"],
+                "summary": "Paginált adatok lekérése szűréssel.",
+                "description": "Ingatlanok lekérdezése lapozáshoz szűréssel.",
+                "parameters": [
+                    {
+                        "name": "offset",
+                        "description": "Ennyi rekordot hagyunk el (skip) a lekérdezés 'elejéről'.",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": "0"
+                        },
+                        "required": true
+                    },
+                    {
+                        "name": "limit",
+                        "description": "Ennyi rekordot küld (take) maximum az API.",
+                        "in": "path",
+                        "schema": {
+                            "type": "number",
+                            "example": "2"
+                        },
+                        "required": true
+                    },
+                    {
+                        "name": "field",
+                        "description": "Melyik mező szerint legyenek rendezve a rekordok. A kötőjel '-' karakter a csökkenő rendezést jelöli.",
+                        "in": "path",
+                        "schema": {
+                            "type": "string",
+                            "example": "-cim"
+                        },
+                        "required": true
+                    },
+                    {
+                        "name": "filter",
+                        "description": "Szűrő - a 'cim' és a 'leiras' mezőkben keressük.",
+                        "in": "path",
+                        "schema": {
+                            "type": "string",
+                            "example": "sport"
+                        },
+                        "required": true
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "count": {
+                                            "type": "number",
+                                            "description": "A szűrőnek megfelelő rekordok száma",
+                                            "example": "16"
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "description": "A maximum {limit} számú, szűrőnek megfelelő rekord.",
+                                            "items": {
+                                                "$ref": "#/components/schemas/utcak"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "message": {
+                                            "type": "string",
+                                            "example": "error.message"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "adosavok": {
+                "type": "object",
+                "required": ["sav"],
+                "properties": {
+                    "_id": {
+                        "type": "string",
+                        "description": "PK - A adósáv azonosítója (ObjectID).",
+                        "example": "63f68e47b45431db30a4ed1f"
+                    },
+                    "sav": {
+                        "type": "string",
+                        "description": "Az adósáv jele.",
+                        "example": "A"
+                    },
+                    "ado": {
+                        "type": "number",
+                        "description": "Az adó mértéke négyzetméterenként.",
+                        "example": 8000
+                    },
+                    "határ": {
+                        "type": "number",
+                        "description": "Az ingatlan távolsága a Balatontól",
+                        "example": 300
+                    }
+                }
+            },
+            "utcak": {
+                "type": "object",
+                "required": ["adoszam", "utca", "hazszam", "adosav_id"],
+                "properties": {
+                    "_id": {
+                        "type": "string",
+                        "description": "PK - A ingatlan azonosítója (ObjectID).",
+                        "example": "63f68e52d76809d4559087f3"
+                    },
+                    "adosav_id": {
+                        "type": "string",
+                        "description": "FK - A ingatlan adósávja (ObjectID).",
+                        "example": "63f68e47b45431db30a4ed21"
+                    },
+                    "adoszam": {
+                        "type": "number",
+                        "description": "Az ingatlan adószáma. Ötjegyű egész szám.",
+                        "example": 97969
+                    },
+                    "utca": {
+                        "type": "string",
+                        "description": "Az igatlan utcaja.",
+                        "example": "Aradi"
+                    },
+                    "hazszam": {
+                        "type": "number",
+                        "description": "Az ingatlan házszáma",
+                        "example": 7
+                    },
+                    "terulet": {
+                        "type": "number",
+                        "description": "Az ingatlan alapterülete.",
+                        "example": 80
+                    }
+                }
+            },
+            "address": {
+                "type": "object",
+                "properties": {
+                    "street": {
+                        "type": "string",
+                        "description": "A közterület neve és száma.",
+                        "example": "Szent István út 7."
+                    },
+                    "city": {
+                        "type": "string",
+                        "description": "A település, ahol felhasználó lakik.",
+                        "example": "Győr"
+                    },
+                    "country": {
+                        "type": "string",
+                        "description": "Az ország, ahol a felhasználó él.",
+                        "example": "Hungary"
+                    }
+                }
+            },
+            "user": {
+                "type": "object",
+                "required": ["name", "email", "email_verified", "auto_login", "picture", "password", "roles"],
+                "properties": {
+                    "_id": {
+                        "type": "string",
+                        "description": "PK - A felhasználó azonosítója (ObjectID).",
+                        "example": "61b5f0c1f39e4edcf5b8a3d8"
+                    },
+                    "name": {
+                        "type": "string",
+                        "description": "A felhasználó neve",
+                        "example": "student005"
+                    },
+                    "email": {
+                        "type": "string",
+                        "description": "A felhasználó által használt e-mail cím a regisztráció során",
+                        "example": "student005@jedlik.eu"
+                    },
+                    "password": {
+                        "type": "string",
+                        "description": "A felhasználó jelszavához tartozó hash-kód.",
+                        "example": "$2b$10$HBH36EkxhwwOcI7UM/Km3uHUcgwPJjleZYS9fqOgjIr.qmvTUlGPu"
+                    },
+                    "address": {
+                        "type": "object",
+                        "$ref": "#/components/schemas/address",
+                        "description": "A felhasználó lakcíme.",
+                        "example": true
+                    }
+                }
+            }
+        }
+    }
+}

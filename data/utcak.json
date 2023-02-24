@@ -1,0 +1,6518 @@
+[
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f3"
+        },
+        "adoszam": 97969,
+        "utca": "Aradi",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f6"
+        },
+        "adoszam": 22510,
+        "utca": "Aradi",
+        "hazszam": "8B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 137
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f4"
+        },
+        "adoszam": 79906,
+        "utca": "Aradi",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 123
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f1"
+        },
+        "adoszam": 26753,
+        "utca": "Aradi",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 231
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f5"
+        },
+        "adoszam": 33366,
+        "utca": "Aradi",
+        "hazszam": "8A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 180
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f7"
+        },
+        "adoszam": 41456,
+        "utca": "Aradi",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 246
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f8"
+        },
+        "adoszam": 59966,
+        "utca": "Aradi",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 297
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087fa"
+        },
+        "adoszam": 45156,
+        "utca": "Aradi",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 282
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f9"
+        },
+        "adoszam": 90561,
+        "utca": "Aradi",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 168
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087fb"
+        },
+        "adoszam": 92210,
+        "utca": "Aradi",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 152
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087fd"
+        },
+        "adoszam": 76500,
+        "utca": "Aradi",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 151
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087fc"
+        },
+        "adoszam": 86379,
+        "utca": "Aradi",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 64
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087ff"
+        },
+        "adoszam": 29556,
+        "utca": "Aradi",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 139
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087fe"
+        },
+        "adoszam": 49812,
+        "utca": "Aradi",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 154
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559087f2"
+        },
+        "adoszam": 38522,
+        "utca": "Aradi",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 180
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908803"
+        },
+        "adoszam": 42220,
+        "utca": "Aradi",
+        "hazszam": "20B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 90
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908804"
+        },
+        "adoszam": 66550,
+        "utca": "Aradi",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 147
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908805"
+        },
+        "adoszam": 90844,
+        "utca": "Besztercei",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908806"
+        },
+        "adoszam": 78384,
+        "utca": "Besztercei",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 81
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908801"
+        },
+        "adoszam": 21210,
+        "utca": "Aradi",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 277
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908808"
+        },
+        "adoszam": 79028,
+        "utca": "Aradi",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 213
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908802"
+        },
+        "adoszam": 42220,
+        "utca": "Aradi",
+        "hazszam": "20A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 90
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908800"
+        },
+        "adoszam": 38722,
+        "utca": "Aradi",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 147
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590880b"
+        },
+        "adoszam": 82049,
+        "utca": "Besztercei",
+        "hazszam": "7A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590880d"
+        },
+        "adoszam": 76469,
+        "utca": "Besztercei",
+        "hazszam": "7B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590880a"
+        },
+        "adoszam": 72311,
+        "utca": "Besztercei",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 187
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908807"
+        },
+        "adoszam": 76032,
+        "utca": "Aradi",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908809"
+        },
+        "adoszam": 18167,
+        "utca": "Besztercei",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 176
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590880c"
+        },
+        "adoszam": 15974,
+        "utca": "Besztercei",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 193
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590880e"
+        },
+        "adoszam": 39637,
+        "utca": "Besztercei",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 49
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590880f"
+        },
+        "adoszam": 97723,
+        "utca": "Besztercei",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 188
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908810"
+        },
+        "adoszam": 84103,
+        "utca": "Besztercei",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 56
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908812"
+        },
+        "adoszam": 29279,
+        "utca": "Besztercei",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908813"
+        },
+        "adoszam": 26395,
+        "utca": "Besztercei",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 153
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908811"
+        },
+        "adoszam": 19516,
+        "utca": "Besztercei",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 48
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908814"
+        },
+        "adoszam": 76092,
+        "utca": "Besztercei",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 175
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590881a"
+        },
+        "adoszam": 15095,
+        "utca": "Besztercei",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 110
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908819"
+        },
+        "adoszam": 86861,
+        "utca": "Besztercei",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 282
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908816"
+        },
+        "adoszam": 65118,
+        "utca": "Besztercei",
+        "hazszam": "15B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908817"
+        },
+        "adoszam": 29487,
+        "utca": "Besztercei",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 85
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590881b"
+        },
+        "adoszam": 53972,
+        "utca": "Egyenes",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 240
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908818"
+        },
+        "adoszam": 65118,
+        "utca": "Besztercei",
+        "hazszam": "15A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590881c"
+        },
+        "adoszam": 21929,
+        "utca": "Egyenes",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 168
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590881d"
+        },
+        "adoszam": 39499,
+        "utca": "Egyenes",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 209
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590881e"
+        },
+        "adoszam": 50050,
+        "utca": "Egyenes",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 145
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590881f"
+        },
+        "adoszam": 47026,
+        "utca": "Egyenes",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 105
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908821"
+        },
+        "adoszam": 58059,
+        "utca": "Egyenes",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 96
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908820"
+        },
+        "adoszam": 87586,
+        "utca": "Egyenes",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 249
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908815"
+        },
+        "adoszam": 74853,
+        "utca": "Besztercei",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 640
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908823"
+        },
+        "adoszam": 85448,
+        "utca": "Egyenes",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 118
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908822"
+        },
+        "adoszam": 17487,
+        "utca": "Egyenes",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 199
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908825"
+        },
+        "adoszam": 43181,
+        "utca": "Egyenes",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 196
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908829"
+        },
+        "adoszam": 42848,
+        "utca": "Egyenes",
+        "hazszam": "25",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908824"
+        },
+        "adoszam": 65118,
+        "utca": "Egyenes",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 221
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590882a"
+        },
+        "adoszam": 24510,
+        "utca": "Egyenes",
+        "hazszam": "29",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 72
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590882b"
+        },
+        "adoszam": 30893,
+        "utca": "Egyenes",
+        "hazszam": "39",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908828"
+        },
+        "adoszam": 34233,
+        "utca": "Egyenes",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 217
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908826"
+        },
+        "adoszam": 98489,
+        "utca": "Besztercei",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 105
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590882c"
+        },
+        "adoszam": 50751,
+        "utca": "Egyenes",
+        "hazszam": "27",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590882e"
+        },
+        "adoszam": 17219,
+        "utca": "Egyenes",
+        "hazszam": "33",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 229
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908830"
+        },
+        "adoszam": 40406,
+        "utca": "Eperjesi",
+        "hazszam": "1C",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590882d"
+        },
+        "adoszam": 95959,
+        "utca": "Eperjesi",
+        "hazszam": "1A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590882f"
+        },
+        "adoszam": 82851,
+        "utca": "Eperjesi",
+        "hazszam": "1B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908827"
+        },
+        "adoszam": 31231,
+        "utca": "Besztercei",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 161
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908831"
+        },
+        "adoszam": 51751,
+        "utca": "Egyenes",
+        "hazszam": "37",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 116
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908832"
+        },
+        "adoszam": 54361,
+        "utca": "Eperjesi",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 196
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908833"
+        },
+        "adoszam": 40830,
+        "utca": "Eperjesi",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 77
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908834"
+        },
+        "adoszam": 48665,
+        "utca": "Eperjesi",
+        "hazszam": "5A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908836"
+        },
+        "adoszam": 23530,
+        "utca": "Egyenes",
+        "hazszam": "35",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 186
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908839"
+        },
+        "adoszam": 33929,
+        "utca": "Eperjesi",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908838"
+        },
+        "adoszam": 42603,
+        "utca": "Eperjesi",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 360
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590883a"
+        },
+        "adoszam": 85799,
+        "utca": "Eperjesi",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 218
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590883b"
+        },
+        "adoszam": 55384,
+        "utca": "Eperjesi",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 158
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590883d"
+        },
+        "adoszam": 77863,
+        "utca": "Eperjesi",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 184
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590883e"
+        },
+        "adoszam": 62636,
+        "utca": "Eperjesi",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 46
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590883c"
+        },
+        "adoszam": 55311,
+        "utca": "Eperjesi",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 70
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590883f"
+        },
+        "adoszam": 36372,
+        "utca": "Eperjesi",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 158
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908835"
+        },
+        "adoszam": 35968,
+        "utca": "Eperjesi",
+        "hazszam": "5B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908841"
+        },
+        "adoszam": 43023,
+        "utca": "Eperjesi",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 96
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908837"
+        },
+        "adoszam": 58259,
+        "utca": "Egyenes",
+        "hazszam": "31",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 218
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908842"
+        },
+        "adoszam": 95718,
+        "utca": "Eperjesi",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908840"
+        },
+        "adoszam": 42357,
+        "utca": "Eperjesi",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 266
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908844"
+        },
+        "adoszam": 35523,
+        "utca": "Eperjesi",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 166
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908846"
+        },
+        "adoszam": 90017,
+        "utca": "Gerle",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 68
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908845"
+        },
+        "adoszam": 31996,
+        "utca": "Gerle",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 216
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908843"
+        },
+        "adoszam": 12905,
+        "utca": "Eperjesi",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 68
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908847"
+        },
+        "adoszam": 94360,
+        "utca": "Gerle",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 163
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908849"
+        },
+        "adoszam": 51977,
+        "utca": "Gerle",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 110
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908848"
+        },
+        "adoszam": 99795,
+        "utca": "Gerle",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 45
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590884b"
+        },
+        "adoszam": 54785,
+        "utca": "Gerle",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 140
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590884f"
+        },
+        "adoszam": 24151,
+        "utca": "Gerle",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 161
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908850"
+        },
+        "adoszam": 37891,
+        "utca": "Gerle",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 183
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908851"
+        },
+        "adoszam": 90151,
+        "utca": "Gerle",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 285
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590884c"
+        },
+        "adoszam": 78743,
+        "utca": "Gerle",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 135
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590884e"
+        },
+        "adoszam": 20000,
+        "utca": "Gerle",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 209
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908853"
+        },
+        "adoszam": 18134,
+        "utca": "Gerle",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908852"
+        },
+        "adoszam": 61596,
+        "utca": "Gerle",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 266
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908855"
+        },
+        "adoszam": 79263,
+        "utca": "Gerle",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 155
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908856"
+        },
+        "adoszam": 55875,
+        "utca": "Gerle",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 290
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908857"
+        },
+        "adoszam": 18949,
+        "utca": "Gerle",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 205
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590884d"
+        },
+        "adoszam": 83397,
+        "utca": "Gerle",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 111
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908854"
+        },
+        "adoszam": 64784,
+        "utca": "Gerle",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908858"
+        },
+        "adoszam": 66477,
+        "utca": "Gerle",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 121
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908859"
+        },
+        "adoszam": 59222,
+        "utca": "Gerle",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 249
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590884a"
+        },
+        "adoszam": 44038,
+        "utca": "Gerle",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590885d"
+        },
+        "adoszam": 58151,
+        "utca": "Gyurgyalag",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 251
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590885a"
+        },
+        "adoszam": 32014,
+        "utca": "Gyurgyalag",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 103
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590885b"
+        },
+        "adoszam": 41894,
+        "utca": "Gerle",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 112
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590885e"
+        },
+        "adoszam": 10988,
+        "utca": "Gerle",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590885c"
+        },
+        "adoszam": 18529,
+        "utca": "Gyurgyalag",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 271
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908860"
+        },
+        "adoszam": 93340,
+        "utca": "Gyurgyalag",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 224
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908862"
+        },
+        "adoszam": 66772,
+        "utca": "Gyurgyalag",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 159
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908864"
+        },
+        "adoszam": 60822,
+        "utca": "Gyurgyalag",
+        "hazszam": "8A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908865"
+        },
+        "adoszam": 60822,
+        "utca": "Gyurgyalag",
+        "hazszam": "8B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908866"
+        },
+        "adoszam": 65151,
+        "utca": "Gyurgyalag",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908867"
+        },
+        "adoszam": 10507,
+        "utca": "Gyurgyalag",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 210
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908863"
+        },
+        "adoszam": 91330,
+        "utca": "Gyurgyalag",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 42
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908868"
+        },
+        "adoszam": 91608,
+        "utca": "Gyurgyalag",
+        "hazszam": "15A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908869"
+        },
+        "adoszam": 76707,
+        "utca": "Gyurgyalag",
+        "hazszam": "15B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590886a"
+        },
+        "adoszam": 21781,
+        "utca": "Gyurgyalag",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 267
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590886b"
+        },
+        "adoszam": 66750,
+        "utca": "Gyurgyalag",
+        "hazszam": "17A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908861"
+        },
+        "adoszam": 81381,
+        "utca": "Gerle",
+        "hazszam": "24",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 179
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590886c"
+        },
+        "adoszam": 57189,
+        "utca": "Gyurgyalag",
+        "hazszam": "17B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590886d"
+        },
+        "adoszam": 59646,
+        "utca": "Harmat",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 260
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590886e"
+        },
+        "adoszam": 69117,
+        "utca": "Gyurgyalag",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 158
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590885f"
+        },
+        "adoszam": 72172,
+        "utca": "Gyurgyalag",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 211
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590886f"
+        },
+        "adoszam": 12928,
+        "utca": "Harmat",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 260
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908870"
+        },
+        "adoszam": 66676,
+        "utca": "Harmat",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 214
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908873"
+        },
+        "adoszam": 20137,
+        "utca": "Harmat",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 157
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908872"
+        },
+        "adoszam": 20743,
+        "utca": "Harmat",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 44
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908871"
+        },
+        "adoszam": 29682,
+        "utca": "Harmat",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 131
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908876"
+        },
+        "adoszam": 40461,
+        "utca": "Harmat",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 189
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908875"
+        },
+        "adoszam": 68361,
+        "utca": "Harmat",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 219
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908877"
+        },
+        "adoszam": 58029,
+        "utca": "Harmat",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 65
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908879"
+        },
+        "adoszam": 93456,
+        "utca": "Harmat",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 137
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590887b"
+        },
+        "adoszam": 98137,
+        "utca": "Harmat",
+        "hazszam": "14B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 112
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590887a"
+        },
+        "adoszam": 76050,
+        "utca": "Gyurgyalag",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 132
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908874"
+        },
+        "adoszam": 60822,
+        "utca": "Gyurgyalag",
+        "hazszam": "11B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590887e"
+        },
+        "adoszam": 34335,
+        "utca": "Harmat",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 200
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590887d"
+        },
+        "adoszam": 40585,
+        "utca": "Harmat",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 178
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908878"
+        },
+        "adoszam": 60822,
+        "utca": "Gyurgyalag",
+        "hazszam": "11A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908880"
+        },
+        "adoszam": 53590,
+        "utca": "Harmat",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 262
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908882"
+        },
+        "adoszam": 65864,
+        "utca": "Harmat",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 249
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590887c"
+        },
+        "adoszam": 51673,
+        "utca": "Harmat",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 189
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908881"
+        },
+        "adoszam": 54400,
+        "utca": "Gyurgyalag",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 159
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590887f"
+        },
+        "adoszam": 81223,
+        "utca": "Harmat",
+        "hazszam": "14A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 112
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908883"
+        },
+        "adoszam": 68396,
+        "utca": "Harmat",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 98
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908884"
+        },
+        "adoszam": 60822,
+        "utca": "Harmat",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 251
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908885"
+        },
+        "adoszam": 55715,
+        "utca": "Harmat",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 209
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908886"
+        },
+        "adoszam": 84317,
+        "utca": "Harmat",
+        "hazszam": "24",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 148
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908887"
+        },
+        "adoszam": 56255,
+        "utca": "Harmat",
+        "hazszam": "25",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 111
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590888a"
+        },
+        "adoszam": 44777,
+        "utca": "Harmat",
+        "hazszam": "30",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 155
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908888"
+        },
+        "adoszam": 10388,
+        "utca": "Harmat",
+        "hazszam": "28",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 220
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590888d"
+        },
+        "adoszam": 96867,
+        "utca": "Harmat",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 161
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908889"
+        },
+        "adoszam": 46422,
+        "utca": "Harmat",
+        "hazszam": "29",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 222
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590888b"
+        },
+        "adoszam": 73907,
+        "utca": "Harmat",
+        "hazszam": "27",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 145
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590888c"
+        },
+        "adoszam": 77577,
+        "utca": "Harmat",
+        "hazszam": "26",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 166
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590888e"
+        },
+        "adoszam": 84496,
+        "utca": "Harmat",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 54
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908891"
+        },
+        "adoszam": 73760,
+        "utca": "Icce",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 218
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590888f"
+        },
+        "adoszam": 93601,
+        "utca": "Icce",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 251
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908895"
+        },
+        "adoszam": 48143,
+        "utca": "Icce",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 162
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908893"
+        },
+        "adoszam": 34846,
+        "utca": "Icce",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 153
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908896"
+        },
+        "adoszam": 90193,
+        "utca": "Icce",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 257
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908890"
+        },
+        "adoszam": 46063,
+        "utca": "Icce",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 222
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908897"
+        },
+        "adoszam": 11105,
+        "utca": "Icce",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 89
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908898"
+        },
+        "adoszam": 80744,
+        "utca": "Icce",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 79
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908899"
+        },
+        "adoszam": 80427,
+        "utca": "Icce",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 146
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590889b"
+        },
+        "adoszam": 28686,
+        "utca": "Harmat",
+        "hazszam": "32",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 176
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908894"
+        },
+        "adoszam": 99986,
+        "utca": "Icce",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 253
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590889c"
+        },
+        "adoszam": 69089,
+        "utca": "Icce",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 219
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590889a"
+        },
+        "adoszam": 38317,
+        "utca": "Icce",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 130
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590889e"
+        },
+        "adoszam": 51755,
+        "utca": "Icce",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 248
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908892"
+        },
+        "adoszam": 66343,
+        "utca": "Icce",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 235
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590889d"
+        },
+        "adoszam": 44774,
+        "utca": "Icce",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 163
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590889f"
+        },
+        "adoszam": 16830,
+        "utca": "Icce",
+        "hazszam": "18C",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a4"
+        },
+        "adoszam": 74143,
+        "utca": "Icce",
+        "hazszam": "24",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 125
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a0"
+        },
+        "adoszam": 41078,
+        "utca": "Icce",
+        "hazszam": "18A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a5"
+        },
+        "adoszam": 90356,
+        "utca": "Icce",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a6"
+        },
+        "adoszam": 73011,
+        "utca": "Keszeg",
+        "hazszam": "2A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a7"
+        },
+        "adoszam": 79963,
+        "utca": "Keszeg",
+        "hazszam": "2B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a3"
+        },
+        "adoszam": 73850,
+        "utca": "Icce",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 255
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a9"
+        },
+        "adoszam": 33003,
+        "utca": "Icce",
+        "hazszam": "18B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088aa"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "1A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a1"
+        },
+        "adoszam": 83904,
+        "utca": "Icce",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 245
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a8"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "1B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ab"
+        },
+        "adoszam": 65422,
+        "utca": "Icce",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 242
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ac"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "3B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088a2"
+        },
+        "adoszam": 24980,
+        "utca": "Icce",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 272
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ad"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "5A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ae"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "5B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088af"
+        },
+        "adoszam": 62874,
+        "utca": "Keszeg",
+        "hazszam": "5C",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b5"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "7B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b3"
+        },
+        "adoszam": 49774,
+        "utca": "Keszeg",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 44
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b1"
+        },
+        "adoszam": 31918,
+        "utca": "Keszeg",
+        "hazszam": "6B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b2"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "7A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b8"
+        },
+        "adoszam": 57251,
+        "utca": "Keszeg",
+        "hazszam": "9B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b9"
+        },
+        "adoszam": 29437,
+        "utca": "Keszeg",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 214
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ba"
+        },
+        "adoszam": 24131,
+        "utca": "Keszeg",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 299
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b7"
+        },
+        "adoszam": 46529,
+        "utca": "Keszeg",
+        "hazszam": "4A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b6"
+        },
+        "adoszam": 49650,
+        "utca": "Keszeg",
+        "hazszam": "4B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088bc"
+        },
+        "adoszam": 79197,
+        "utca": "Kolozsi",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 274
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088bb"
+        },
+        "adoszam": 86885,
+        "utca": "Keszeg",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 227
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088be"
+        },
+        "adoszam": 50005,
+        "utca": "Keszeg",
+        "hazszam": "10A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b0"
+        },
+        "adoszam": 56569,
+        "utca": "Keszeg",
+        "hazszam": "6A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088bf"
+        },
+        "adoszam": 87182,
+        "utca": "Kolozsi",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 131
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088b4"
+        },
+        "adoszam": 59801,
+        "utca": "Keszeg",
+        "hazszam": "3A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c0"
+        },
+        "adoszam": 67657,
+        "utca": "Kolozsi",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c1"
+        },
+        "adoszam": 43476,
+        "utca": "Kolozsi",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 204
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c2"
+        },
+        "adoszam": 60981,
+        "utca": "Kolozsi",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c3"
+        },
+        "adoszam": 50266,
+        "utca": "Kolozsi",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 279
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088bd"
+        },
+        "adoszam": 84449,
+        "utca": "Keszeg",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c4"
+        },
+        "adoszam": 60989,
+        "utca": "Kolozsi",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 251
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c6"
+        },
+        "adoszam": 62766,
+        "utca": "Keszeg",
+        "hazszam": "9A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c5"
+        },
+        "adoszam": 11674,
+        "utca": "Keszeg",
+        "hazszam": "10B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c8"
+        },
+        "adoszam": 22213,
+        "utca": "Kossuth",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 190
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c7"
+        },
+        "adoszam": 57449,
+        "utca": "Kossuth",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 158
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ca"
+        },
+        "adoszam": 97701,
+        "utca": "Kossuth",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 210
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088cb"
+        },
+        "adoszam": 68371,
+        "utca": "Kossuth",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 242
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088c9"
+        },
+        "adoszam": 49395,
+        "utca": "Kossuth",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 284
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088cd"
+        },
+        "adoszam": 15284,
+        "utca": "Kossuth",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 104
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ce"
+        },
+        "adoszam": 79359,
+        "utca": "Kossuth",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 178
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d2"
+        },
+        "adoszam": 73457,
+        "utca": "Kossuth",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 191
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088cf"
+        },
+        "adoszam": 53875,
+        "utca": "Kossuth",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 232
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d0"
+        },
+        "adoszam": 96179,
+        "utca": "Kossuth",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 119
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d1"
+        },
+        "adoszam": 97519,
+        "utca": "Kossuth",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d5"
+        },
+        "adoszam": 10934,
+        "utca": "Kossuth",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 144
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088cc"
+        },
+        "adoszam": 70573,
+        "utca": "Kossuth",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 95
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d6"
+        },
+        "adoszam": 95158,
+        "utca": "Kossuth",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 175
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d7"
+        },
+        "adoszam": 29963,
+        "utca": "Kossuth",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 156
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d3"
+        },
+        "adoszam": 13656,
+        "utca": "Kossuth",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 242
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d9"
+        },
+        "adoszam": 34197,
+        "utca": "Kossuth",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 273
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088da"
+        },
+        "adoszam": 71181,
+        "utca": "Kossuth",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 264
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d4"
+        },
+        "adoszam": 29904,
+        "utca": "Kossuth",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088d8"
+        },
+        "adoszam": 11401,
+        "utca": "Kossuth",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 168
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088dc"
+        },
+        "adoszam": 34093,
+        "utca": "Kossuth",
+        "hazszam": "25B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088dd"
+        },
+        "adoszam": 82776,
+        "utca": "Kossuth",
+        "hazszam": "25A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088db"
+        },
+        "adoszam": 39022,
+        "utca": "Kossuth",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 133
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088de"
+        },
+        "adoszam": 10962,
+        "utca": "Kossuth",
+        "hazszam": "25C",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e2"
+        },
+        "adoszam": 17355,
+        "utca": "Kossuth",
+        "hazszam": "24",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 178
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088df"
+        },
+        "adoszam": 48154,
+        "utca": "Kossuth",
+        "hazszam": "27",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 299
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e3"
+        },
+        "adoszam": 96094,
+        "utca": "Kossuth",
+        "hazszam": "26",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 181
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e4"
+        },
+        "adoszam": 12995,
+        "utca": "Malom",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 282
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e5"
+        },
+        "adoszam": 96552,
+        "utca": "Kurta",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 48
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e0"
+        },
+        "adoszam": 81752,
+        "utca": "Kossuth",
+        "hazszam": "29",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 79
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e6"
+        },
+        "adoszam": 80018,
+        "utca": "Kurta",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 184
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e8"
+        },
+        "adoszam": 53817,
+        "utca": "Malom",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 48
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ea"
+        },
+        "adoszam": 86387,
+        "utca": "Malom",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 456
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ec"
+        },
+        "adoszam": 19310,
+        "utca": "Malom",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 259
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e9"
+        },
+        "adoszam": 18836,
+        "utca": "Malom",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 66
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e7"
+        },
+        "adoszam": 56516,
+        "utca": "Kossuth",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 165
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088eb"
+        },
+        "adoszam": 40085,
+        "utca": "Malom",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 63
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088e1"
+        },
+        "adoszam": 63774,
+        "utca": "Kurta",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 255
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ed"
+        },
+        "adoszam": 82501,
+        "utca": "Malom",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 74
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ef"
+        },
+        "adoszam": 86017,
+        "utca": "Malom",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 192
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ee"
+        },
+        "adoszam": 38358,
+        "utca": "Malom",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 227
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f0"
+        },
+        "adoszam": 72278,
+        "utca": "Malom",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 202
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f1"
+        },
+        "adoszam": 24431,
+        "utca": "Malom",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f3"
+        },
+        "adoszam": 80884,
+        "utca": "Malom",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 135
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f4"
+        },
+        "adoszam": 67071,
+        "utca": "Malom",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 82
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f2"
+        },
+        "adoszam": 69059,
+        "utca": "Malom",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 271
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f6"
+        },
+        "adoszam": 82727,
+        "utca": "Malom",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 288
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f7"
+        },
+        "adoszam": 90309,
+        "utca": "Malom",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 200
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f5"
+        },
+        "adoszam": 85165,
+        "utca": "Malom",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 240
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f8"
+        },
+        "adoszam": 75738,
+        "utca": "Malom",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 142
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088fa"
+        },
+        "adoszam": 68881,
+        "utca": "Malom",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 233
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088fb"
+        },
+        "adoszam": 21119,
+        "utca": "Malom",
+        "hazszam": "24",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 234
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088fc"
+        },
+        "adoszam": 81116,
+        "utca": "Malom",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 127
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088f9"
+        },
+        "adoszam": 49645,
+        "utca": "Malom",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 86
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088fe"
+        },
+        "adoszam": 44627,
+        "utca": "Malom",
+        "hazszam": "26",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 151
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088fd"
+        },
+        "adoszam": 61685,
+        "utca": "Malom",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 210
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559088ff"
+        },
+        "adoszam": 53715,
+        "utca": "Malom",
+        "hazszam": "27",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 42
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908900"
+        },
+        "adoszam": 41386,
+        "utca": "Malom",
+        "hazszam": "25",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 41
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908901"
+        },
+        "adoszam": 44878,
+        "utca": "Malom",
+        "hazszam": "28",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 217
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908902"
+        },
+        "adoszam": 63220,
+        "utca": "Malom",
+        "hazszam": "29",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 172
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908904"
+        },
+        "adoszam": 45731,
+        "utca": "Malom",
+        "hazszam": "31",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 259
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908905"
+        },
+        "adoszam": 97446,
+        "utca": "Malom",
+        "hazszam": "34",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 97
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908906"
+        },
+        "adoszam": 88380,
+        "utca": "Malom",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 192
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908909"
+        },
+        "adoszam": 52112,
+        "utca": "Malom",
+        "hazszam": "37",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 274
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908903"
+        },
+        "adoszam": 44931,
+        "utca": "Malom",
+        "hazszam": "30",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 217
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590890a"
+        },
+        "adoszam": 45394,
+        "utca": "Malom",
+        "hazszam": "40",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590890c"
+        },
+        "adoszam": 93891,
+        "utca": "Malom",
+        "hazszam": "41",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 93
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590890e"
+        },
+        "adoszam": 60444,
+        "utca": "Malom",
+        "hazszam": "42",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 53
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590890b"
+        },
+        "adoszam": 71812,
+        "utca": "Malom",
+        "hazszam": "39",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 227
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590890d"
+        },
+        "adoszam": 96321,
+        "utca": "Malom",
+        "hazszam": "38",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 252
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590890f"
+        },
+        "adoszam": 18736,
+        "utca": "Miskolci",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908911"
+        },
+        "adoszam": 26878,
+        "utca": "Miskolci",
+        "hazszam": "3A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908908"
+        },
+        "adoszam": 23717,
+        "utca": "Malom",
+        "hazszam": "36",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 106
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908912"
+        },
+        "adoszam": 54530,
+        "utca": "Miskolci",
+        "hazszam": "3B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908910"
+        },
+        "adoszam": 29714,
+        "utca": "Malom",
+        "hazszam": "43",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 66
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908913"
+        },
+        "adoszam": 54530,
+        "utca": "Miskolci",
+        "hazszam": "5A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908916"
+        },
+        "adoszam": 54530,
+        "utca": "Miskolci",
+        "hazszam": "5B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908914"
+        },
+        "adoszam": 47897,
+        "utca": "Miskolci",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 133
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908915"
+        },
+        "adoszam": 39267,
+        "utca": "Miskolci",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 146
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908907"
+        },
+        "adoszam": 55328,
+        "utca": "Malom",
+        "hazszam": "35",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 84
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590891a"
+        },
+        "adoszam": 67060,
+        "utca": "Malom",
+        "hazszam": "33",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 86
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908917"
+        },
+        "adoszam": 47376,
+        "utca": "Malom",
+        "hazszam": "32",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 56
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590891b"
+        },
+        "adoszam": 18184,
+        "utca": "Miskolci",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 177
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908918"
+        },
+        "adoszam": 91293,
+        "utca": "Miskolci",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 294
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590891d"
+        },
+        "adoszam": 47057,
+        "utca": "Miskolci",
+        "hazszam": "12A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590891e"
+        },
+        "adoszam": 31058,
+        "utca": "Miskolci",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 47
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590891c"
+        },
+        "adoszam": 60544,
+        "utca": "Miskolci",
+        "hazszam": "7A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590891f"
+        },
+        "adoszam": 11149,
+        "utca": "Miskolci",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 189
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908922"
+        },
+        "adoszam": 66775,
+        "utca": "Miskolci",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 136
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908920"
+        },
+        "adoszam": 93671,
+        "utca": "Miskolci",
+        "hazszam": "12B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908921"
+        },
+        "adoszam": 61923,
+        "utca": "Miskolci",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 161
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908923"
+        },
+        "adoszam": 29892,
+        "utca": "Miskolci",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 79
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908924"
+        },
+        "adoszam": 25677,
+        "utca": "Miskolci",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 173
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908928"
+        },
+        "adoszam": 18903,
+        "utca": "Nefelejcs",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 242
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908925"
+        },
+        "adoszam": 26690,
+        "utca": "Miskolci",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 75
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908919"
+        },
+        "adoszam": 94228,
+        "utca": "Miskolci",
+        "hazszam": "7B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 160
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908929"
+        },
+        "adoszam": 37411,
+        "utca": "Miskolci",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 77
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590892a"
+        },
+        "adoszam": 63761,
+        "utca": "Nefelejcs",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590892b"
+        },
+        "adoszam": 18842,
+        "utca": "Miskolci",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 86
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590892c"
+        },
+        "adoszam": 59091,
+        "utca": "Miskolci",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 73
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908926"
+        },
+        "adoszam": 36122,
+        "utca": "Miskolci",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 269
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908927"
+        },
+        "adoszam": 66069,
+        "utca": "Miskolci",
+        "hazszam": "25",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 163
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590892f"
+        },
+        "adoszam": 82629,
+        "utca": "Nefelejcs",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 181
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908930"
+        },
+        "adoszam": 37480,
+        "utca": "Nefelejcs",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 630
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590892d"
+        },
+        "adoszam": 35330,
+        "utca": "Nefelejcs",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 158
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908933"
+        },
+        "adoszam": 61002,
+        "utca": "Nefelejcs",
+        "hazszam": "24",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 800
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908932"
+        },
+        "adoszam": 73799,
+        "utca": "Nefelejcs",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 265
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908931"
+        },
+        "adoszam": 92673,
+        "utca": "Nefelejcs",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 202
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908935"
+        },
+        "adoszam": 52953,
+        "utca": "Nefelejcs",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 66
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908936"
+        },
+        "adoszam": 67446,
+        "utca": "Nefelejcs",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 82
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908934"
+        },
+        "adoszam": 63943,
+        "utca": "Nefelejcs",
+        "hazszam": "26",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 166
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908938"
+        },
+        "adoszam": 91970,
+        "utca": "Nefelejcs",
+        "hazszam": "28",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 54
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590892e"
+        },
+        "adoszam": 11808,
+        "utca": "Nefelejcs",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 245
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908939"
+        },
+        "adoszam": 33238,
+        "utca": "Nefelejcs",
+        "hazszam": "32",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 112
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590893a"
+        },
+        "adoszam": 62464,
+        "utca": "Nefelejcs",
+        "hazszam": "36",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 181
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590893d"
+        },
+        "adoszam": 50317,
+        "utca": "Nefelejcs",
+        "hazszam": "30",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 154
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590893b"
+        },
+        "adoszam": 97353,
+        "utca": "Nefelejcs",
+        "hazszam": "34",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 236
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590893c"
+        },
+        "adoszam": 34964,
+        "utca": "Nefelejcs",
+        "hazszam": "38",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 46
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590893e"
+        },
+        "adoszam": 77877,
+        "utca": "Nefelejcs",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 48
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590893f"
+        },
+        "adoszam": 71567,
+        "utca": "Nefelejcs",
+        "hazszam": "50",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 46
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908941"
+        },
+        "adoszam": 49755,
+        "utca": "Nefelejcs",
+        "hazszam": "46",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 232
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908942"
+        },
+        "adoszam": 65718,
+        "utca": "Nefelejcs",
+        "hazszam": "40",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 54
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908943"
+        },
+        "adoszam": 45255,
+        "utca": "Nefelejcs",
+        "hazszam": "52",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 90
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908944"
+        },
+        "adoszam": 26853,
+        "utca": "Nefelejcs",
+        "hazszam": "48",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 62
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908947"
+        },
+        "adoszam": 51465,
+        "utca": "Nefelejcs",
+        "hazszam": "54",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 112
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908946"
+        },
+        "adoszam": 27972,
+        "utca": "Ordacsehi",
+        "hazszam": "1A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908945"
+        },
+        "adoszam": 63654,
+        "utca": "Nefelejcs",
+        "hazszam": "56",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 278
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908940"
+        },
+        "adoszam": 48979,
+        "utca": "Nefelejcs",
+        "hazszam": "44",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 270
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908937"
+        },
+        "adoszam": 25360,
+        "utca": "Nefelejcs",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 118
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908949"
+        },
+        "adoszam": 71612,
+        "utca": "Ordacsehi",
+        "hazszam": "1C",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908948"
+        },
+        "adoszam": 69990,
+        "utca": "Ordacsehi",
+        "hazszam": "1B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590894b"
+        },
+        "adoszam": 53663,
+        "utca": "Nefelejcs",
+        "hazszam": "42",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 61
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590894a"
+        },
+        "adoszam": 48240,
+        "utca": "Ordacsehi",
+        "hazszam": "1D",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590894f"
+        },
+        "adoszam": 90734,
+        "utca": "Ordacsehi",
+        "hazszam": "6B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590894e"
+        },
+        "adoszam": 21415,
+        "utca": "Ordacsehi",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 185
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590894d"
+        },
+        "adoszam": 21073,
+        "utca": "Ordacsehi",
+        "hazszam": "6A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590894c"
+        },
+        "adoszam": 27836,
+        "utca": "Ordacsehi",
+        "hazszam": "1E",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908950"
+        },
+        "adoszam": 90136,
+        "utca": "Ordacsehi",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 286
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908951"
+        },
+        "adoszam": 15737,
+        "utca": "Ordacsehi",
+        "hazszam": "6C",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908952"
+        },
+        "adoszam": 35678,
+        "utca": "Ordacsehi",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 72
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908954"
+        },
+        "adoszam": 84515,
+        "utca": "Pesti",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 84
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908959"
+        },
+        "adoszam": 48855,
+        "utca": "Pesti",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 152
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908953"
+        },
+        "adoszam": 61287,
+        "utca": "Ordacsehi",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 159
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590895a"
+        },
+        "adoszam": 38696,
+        "utca": "Pesti",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 91
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590895b"
+        },
+        "adoszam": 22336,
+        "utca": "Ordacsehi",
+        "hazszam": "1F",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590895d"
+        },
+        "adoszam": 97489,
+        "utca": "Ordacsehi",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 153
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590895c"
+        },
+        "adoszam": 42017,
+        "utca": "Pesti",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 277
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590895f"
+        },
+        "adoszam": 15918,
+        "utca": "Pesti",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 205
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590895e"
+        },
+        "adoszam": 54530,
+        "utca": "Pesti",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 173
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908955"
+        },
+        "adoszam": 12515,
+        "utca": "Pesti",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 141
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908957"
+        },
+        "adoszam": 12438,
+        "utca": "Ordacsehi",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 245
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908960"
+        },
+        "adoszam": 68826,
+        "utca": "Pesti",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 234
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908961"
+        },
+        "adoszam": 68468,
+        "utca": "Pesti",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 188
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908963"
+        },
+        "adoszam": 53390,
+        "utca": "Pesti",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 86
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908962"
+        },
+        "adoszam": 83426,
+        "utca": "Ordacsehi",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 182
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908964"
+        },
+        "adoszam": 16264,
+        "utca": "Pesti",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 65
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908966"
+        },
+        "adoszam": 34662,
+        "utca": "Pesti",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 109
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908965"
+        },
+        "adoszam": 41770,
+        "utca": "Pesti",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 127
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908958"
+        },
+        "adoszam": 71212,
+        "utca": "Pesti",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 209
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908967"
+        },
+        "adoszam": 74346,
+        "utca": "Pesti",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 297
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908968"
+        },
+        "adoszam": 44938,
+        "utca": "Pesti",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 197
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590896a"
+        },
+        "adoszam": 30777,
+        "utca": "Pesti",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 195
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590896c"
+        },
+        "adoszam": 52699,
+        "utca": "Pesti",
+        "hazszam": "24",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 189
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590896d"
+        },
+        "adoszam": 56227,
+        "utca": "Pesti",
+        "hazszam": "25",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 281
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590896e"
+        },
+        "adoszam": 97993,
+        "utca": "Pesti",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 62
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908956"
+        },
+        "adoszam": 72401,
+        "utca": "Ordacsehi",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 53
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590896f"
+        },
+        "adoszam": 42837,
+        "utca": "Pesti",
+        "hazszam": "27",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 226
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908969"
+        },
+        "adoszam": 94067,
+        "utca": "Pesti",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 286
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590896b"
+        },
+        "adoszam": 19339,
+        "utca": "Pesti",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 273
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908971"
+        },
+        "adoszam": 63332,
+        "utca": "Pesti",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 44
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908970"
+        },
+        "adoszam": 75622,
+        "utca": "Pesti",
+        "hazszam": "26",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 267
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908973"
+        },
+        "adoszam": 80181,
+        "utca": "Pesti",
+        "hazszam": "28",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 147
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908975"
+        },
+        "adoszam": 29207,
+        "utca": "Pesti",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 287
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908976"
+        },
+        "adoszam": 12479,
+        "utca": "Pesti",
+        "hazszam": "31",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 278
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908977"
+        },
+        "adoszam": 46543,
+        "utca": "Pesti",
+        "hazszam": "36",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 134
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908974"
+        },
+        "adoszam": 43266,
+        "utca": "Pesti",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 209
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908972"
+        },
+        "adoszam": 90558,
+        "utca": "Pesti",
+        "hazszam": "29",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 224
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908978"
+        },
+        "adoszam": 22075,
+        "utca": "Pesti",
+        "hazszam": "32",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 48
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908979"
+        },
+        "adoszam": 28430,
+        "utca": "Pesti",
+        "hazszam": "34",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 281
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590897b"
+        },
+        "adoszam": 21105,
+        "utca": "Pesti",
+        "hazszam": "35",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 102
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590897c"
+        },
+        "adoszam": 21582,
+        "utca": "Pesti",
+        "hazszam": "37",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 218
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590897f"
+        },
+        "adoszam": 38551,
+        "utca": "Pesti",
+        "hazszam": "40",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 154
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590897a"
+        },
+        "adoszam": 48105,
+        "utca": "Pesti",
+        "hazszam": "30",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 236
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908981"
+        },
+        "adoszam": 61579,
+        "utca": "Pesti",
+        "hazszam": "43",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 265
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908980"
+        },
+        "adoszam": 53090,
+        "utca": "Pesti",
+        "hazszam": "42",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 66
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908983"
+        },
+        "adoszam": 85243,
+        "utca": "Pesti",
+        "hazszam": "33",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 92
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590897e"
+        },
+        "adoszam": 76160,
+        "utca": "Pesti",
+        "hazszam": "38",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 195
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908982"
+        },
+        "adoszam": 10843,
+        "utca": "Pesti",
+        "hazszam": "41",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 116
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908984"
+        },
+        "adoszam": 52447,
+        "utca": "Pesti",
+        "hazszam": "44",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 77
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908985"
+        },
+        "adoszam": 64927,
+        "utca": "Pesti",
+        "hazszam": "45",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908986"
+        },
+        "adoszam": 30798,
+        "utca": "Pesti",
+        "hazszam": "47",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 185
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590897d"
+        },
+        "adoszam": 25314,
+        "utca": "Pesti",
+        "hazszam": "39",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 71
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908987"
+        },
+        "adoszam": 62945,
+        "utca": "Pesti",
+        "hazszam": "49",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 253
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908988"
+        },
+        "adoszam": 73098,
+        "utca": "Pesti",
+        "hazszam": "46",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 116
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590898a"
+        },
+        "adoszam": 41668,
+        "utca": "Pesti",
+        "hazszam": "53",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 180
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908989"
+        },
+        "adoszam": 65543,
+        "utca": "Pesti",
+        "hazszam": "52",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 219
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590898e"
+        },
+        "adoszam": 64569,
+        "utca": "Pesti",
+        "hazszam": "57",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 64
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590898f"
+        },
+        "adoszam": 42027,
+        "utca": "Pesti",
+        "hazszam": "55",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 180
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590898c"
+        },
+        "adoszam": 98196,
+        "utca": "Pesti",
+        "hazszam": "54",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 188
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590898b"
+        },
+        "adoszam": 14348,
+        "utca": "Pesti",
+        "hazszam": "51",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 55
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908992"
+        },
+        "adoszam": 96368,
+        "utca": "Pesti",
+        "hazszam": "48",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 109
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590898d"
+        },
+        "adoszam": 90127,
+        "utca": "Pesti",
+        "hazszam": "56",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908993"
+        },
+        "adoszam": 77670,
+        "utca": "Pesti",
+        "hazszam": "50",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 207
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908995"
+        },
+        "adoszam": 88798,
+        "utca": "Pozsonyi",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 62
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908994"
+        },
+        "adoszam": 58947,
+        "utca": "Pozsonyi",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 275
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908996"
+        },
+        "adoszam": 42616,
+        "utca": "Pozsonyi",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 54
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908997"
+        },
+        "adoszam": 10495,
+        "utca": "Pozsonyi",
+        "hazszam": "3A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908998"
+        },
+        "adoszam": 46812,
+        "utca": "Pozsonyi",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 233
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590899a"
+        },
+        "adoszam": 55517,
+        "utca": "Pozsonyi",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 170
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908991"
+        },
+        "adoszam": 48271,
+        "utca": "Pesti",
+        "hazszam": "58",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 123
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908999"
+        },
+        "adoszam": 75202,
+        "utca": "Pozsonyi",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 170
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590899b"
+        },
+        "adoszam": 55574,
+        "utca": "Pozsonyi",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 52
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590899c"
+        },
+        "adoszam": 87398,
+        "utca": "Pozsonyi",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 114
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590899d"
+        },
+        "adoszam": 13949,
+        "utca": "Pozsonyi",
+        "hazszam": "11A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590899e"
+        },
+        "adoszam": 13949,
+        "utca": "Pozsonyi",
+        "hazszam": "11B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908990"
+        },
+        "adoszam": 69728,
+        "utca": "Pozsonyi",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 87
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d45590899f"
+        },
+        "adoszam": 93085,
+        "utca": "Pozsonyi",
+        "hazszam": "13A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a1"
+        },
+        "adoszam": 10950,
+        "utca": "Pozsonyi",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 279
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a0"
+        },
+        "adoszam": 22887,
+        "utca": "Pozsonyi",
+        "hazszam": "3B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a5"
+        },
+        "adoszam": 39200,
+        "utca": "Rezeda",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 128
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a6"
+        },
+        "adoszam": 41384,
+        "utca": "Rezeda",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 263
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a4"
+        },
+        "adoszam": 58481,
+        "utca": "Pozsonyi",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 197
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a8"
+        },
+        "adoszam": 93834,
+        "utca": "Rezeda",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 130
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a9"
+        },
+        "adoszam": 59411,
+        "utca": "Pozsonyi",
+        "hazszam": "17A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a7"
+        },
+        "adoszam": 64661,
+        "utca": "Pozsonyi",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 79
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089aa"
+        },
+        "adoszam": 90011,
+        "utca": "Rezeda",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 274
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a3"
+        },
+        "adoszam": 57698,
+        "utca": "Pozsonyi",
+        "hazszam": "13B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089a2"
+        },
+        "adoszam": 61870,
+        "utca": "Pozsonyi",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 74
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ac"
+        },
+        "adoszam": 54208,
+        "utca": "Rezeda",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 278
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ab"
+        },
+        "adoszam": 54168,
+        "utca": "Rezeda",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 240
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ad"
+        },
+        "adoszam": 52604,
+        "utca": "Rezeda",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 300
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b0"
+        },
+        "adoszam": 84226,
+        "utca": "Rezeda",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 268
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089af"
+        },
+        "adoszam": 37973,
+        "utca": "Rezeda",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 159
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ae"
+        },
+        "adoszam": 51683,
+        "utca": "Rezeda",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 127
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b1"
+        },
+        "adoszam": 42423,
+        "utca": "Rezeda",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 211
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b4"
+        },
+        "adoszam": 81463,
+        "utca": "Rezeda",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 91
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b5"
+        },
+        "adoszam": 57843,
+        "utca": "Rezeda",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 203
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b6"
+        },
+        "adoszam": 69341,
+        "utca": "Rezeda",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 156
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b7"
+        },
+        "adoszam": 24487,
+        "utca": "Rezeda",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 292
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b8"
+        },
+        "adoszam": 44978,
+        "utca": "Rezeda",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 86
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b9"
+        },
+        "adoszam": 53486,
+        "utca": "Rezeda",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 166
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ba"
+        },
+        "adoszam": 25964,
+        "utca": "Pozsonyi",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 179
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089bc"
+        },
+        "adoszam": 39761,
+        "utca": "Rezeda",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 178
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089bb"
+        },
+        "adoszam": 75338,
+        "utca": "Rezeda",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 289
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b2"
+        },
+        "adoszam": 73916,
+        "utca": "Rezeda",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 123
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089bd"
+        },
+        "adoszam": 33032,
+        "utca": "Rezeda",
+        "hazszam": "24B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 193
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089be"
+        },
+        "adoszam": 33826,
+        "utca": "Rezeda",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 196
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089b3"
+        },
+        "adoszam": 68434,
+        "utca": "Rezeda",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 218
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089bf"
+        },
+        "adoszam": 92905,
+        "utca": "Rezeda",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 227
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c0"
+        },
+        "adoszam": 89060,
+        "utca": "Rezeda",
+        "hazszam": "26",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 47
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c2"
+        },
+        "adoszam": 60792,
+        "utca": "Sas",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 267
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c1"
+        },
+        "adoszam": 33032,
+        "utca": "Rezeda",
+        "hazszam": "24A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 67
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c4"
+        },
+        "adoszam": 27329,
+        "utca": "Sas",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 234
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c7"
+        },
+        "adoszam": 54143,
+        "utca": "Sas",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 129
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c9"
+        },
+        "adoszam": 33534,
+        "utca": "Sas",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 102
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c8"
+        },
+        "adoszam": 77296,
+        "utca": "Sas",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 145
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c6"
+        },
+        "adoszam": 47997,
+        "utca": "Sas",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 168
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ca"
+        },
+        "adoszam": 58014,
+        "utca": "Sas",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 468
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089cc"
+        },
+        "adoszam": 77884,
+        "utca": "Sas",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 155
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c3"
+        },
+        "adoszam": 23010,
+        "utca": "Sas",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089cd"
+        },
+        "adoszam": 74609,
+        "utca": "Sas",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 223
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ce"
+        },
+        "adoszam": 61324,
+        "utca": "Szepesi",
+        "hazszam": "3A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 153
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089cb"
+        },
+        "adoszam": 14248,
+        "utca": "Sas",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 208
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089cf"
+        },
+        "adoszam": 56788,
+        "utca": "Szepesi",
+        "hazszam": "3B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 171
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d0"
+        },
+        "adoszam": 74835,
+        "utca": "Szepesi",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 164
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089c5"
+        },
+        "adoszam": 97052,
+        "utca": "Sas",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 93
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d1"
+        },
+        "adoszam": 26955,
+        "utca": "Sas",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 50
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d2"
+        },
+        "adoszam": 26308,
+        "utca": "Szepesi",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 273
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d7"
+        },
+        "adoszam": 26766,
+        "utca": "Szepesi",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 52
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d6"
+        },
+        "adoszam": 87083,
+        "utca": "Szepesi",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 246
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d8"
+        },
+        "adoszam": 75008,
+        "utca": "Szepesi",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 290
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d5"
+        },
+        "adoszam": 93666,
+        "utca": "Szepesi",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 201
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d3"
+        },
+        "adoszam": 78747,
+        "utca": "Sas",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 95
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089da"
+        },
+        "adoszam": 33032,
+        "utca": "Szepesi",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 97
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089db"
+        },
+        "adoszam": 33764,
+        "utca": "Szepesi",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 175
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d4"
+        },
+        "adoszam": 57428,
+        "utca": "Szepesi",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 96
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089d9"
+        },
+        "adoszam": 30504,
+        "utca": "Szepesi",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 186
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089dc"
+        },
+        "adoszam": 98791,
+        "utca": "Szepesi",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 189
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089de"
+        },
+        "adoszam": 38792,
+        "utca": "Szepesi",
+        "hazszam": "16B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089dd"
+        },
+        "adoszam": 74410,
+        "utca": "Szepesi",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 59
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089df"
+        },
+        "adoszam": 19586,
+        "utca": "Szepesi",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 133
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e0"
+        },
+        "adoszam": 88594,
+        "utca": "Szepesi",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 282
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e1"
+        },
+        "adoszam": 63031,
+        "utca": "Szepesi",
+        "hazszam": "19",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 295
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e3"
+        },
+        "adoszam": 34645,
+        "utca": "Szepesi",
+        "hazszam": "21",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 88
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e2"
+        },
+        "adoszam": 23434,
+        "utca": "Szepesi",
+        "hazszam": "16A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e7"
+        },
+        "adoszam": 31451,
+        "utca": "Temesi",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 209
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e8"
+        },
+        "adoszam": 73683,
+        "utca": "Temesi",
+        "hazszam": "2A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089eb"
+        },
+        "adoszam": 47371,
+        "utca": "Szepesi",
+        "hazszam": "15B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e9"
+        },
+        "adoszam": 98769,
+        "utca": "Szepesi",
+        "hazszam": "15A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e4"
+        },
+        "adoszam": 68396,
+        "utca": "Szepesi",
+        "hazszam": "17",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 251
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ea"
+        },
+        "adoszam": 90775,
+        "utca": "Szepesi",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 114
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e5"
+        },
+        "adoszam": 66309,
+        "utca": "Szepesi",
+        "hazszam": "22",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 274
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ee"
+        },
+        "adoszam": 23231,
+        "utca": "Temesi",
+        "hazszam": "5B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089e6"
+        },
+        "adoszam": 15558,
+        "utca": "Szepesi",
+        "hazszam": "23",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 162
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ef"
+        },
+        "adoszam": 30863,
+        "utca": "Temesi",
+        "hazszam": "2D",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ed"
+        },
+        "adoszam": 95826,
+        "utca": "Temesi",
+        "hazszam": "5A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f0"
+        },
+        "adoszam": 56492,
+        "utca": "Temesi",
+        "hazszam": "2C",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ec"
+        },
+        "adoszam": 23008,
+        "utca": "Temesi",
+        "hazszam": "2B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 100
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f1"
+        },
+        "adoszam": 95645,
+        "utca": "Temesi",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 67
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f2"
+        },
+        "adoszam": 60493,
+        "utca": "Temesi",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 121
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f4"
+        },
+        "adoszam": 13779,
+        "utca": "Temesi",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 62
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f3"
+        },
+        "adoszam": 25359,
+        "utca": "Temesi",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 48
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f5"
+        },
+        "adoszam": 86719,
+        "utca": "Temesi",
+        "hazszam": "11",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 173
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f6"
+        },
+        "adoszam": 88414,
+        "utca": "Temesi",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 299
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f7"
+        },
+        "adoszam": 75797,
+        "utca": "Temesi",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 202
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f8"
+        },
+        "adoszam": 83360,
+        "utca": "Temesi",
+        "hazszam": "13",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 154
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089f9"
+        },
+        "adoszam": 16549,
+        "utca": "Temesi",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 62
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089fa"
+        },
+        "adoszam": 33724,
+        "utca": "Temesi",
+        "hazszam": "15B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089fb"
+        },
+        "adoszam": 54115,
+        "utca": "Temesi",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 169
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a00"
+        },
+        "adoszam": 46616,
+        "utca": "Zsomboly",
+        "hazszam": "2",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 102
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a02"
+        },
+        "adoszam": 91002,
+        "utca": "Zsomboly",
+        "hazszam": "5",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 265
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089fd"
+        },
+        "adoszam": 85862,
+        "utca": "Zsomboly",
+        "hazszam": "1",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 131
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a01"
+        },
+        "adoszam": 87011,
+        "utca": "Zsomboly",
+        "hazszam": "4",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 143
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089fe"
+        },
+        "adoszam": 33724,
+        "utca": "Temesi",
+        "hazszam": "15A",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 60
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089fc"
+        },
+        "adoszam": 33347,
+        "utca": "Temesi",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 86
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d4559089ff"
+        },
+        "adoszam": 47751,
+        "utca": "Temesi",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed21"
+        },
+        "terulet": 70
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a04"
+        },
+        "adoszam": 82966,
+        "utca": "Zsomboly",
+        "hazszam": "3",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 73
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a03"
+        },
+        "adoszam": 59411,
+        "utca": "Pozsonyi",
+        "hazszam": "17B",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed20"
+        },
+        "terulet": 120
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a05"
+        },
+        "adoszam": 86409,
+        "utca": "Zsomboly",
+        "hazszam": "6",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 298
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a07"
+        },
+        "adoszam": 97812,
+        "utca": "Zsomboly",
+        "hazszam": "9",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 84
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a09"
+        },
+        "adoszam": 37480,
+        "utca": "Zsomboly",
+        "hazszam": "10",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 812
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a06"
+        },
+        "adoszam": 21252,
+        "utca": "Zsomboly",
+        "hazszam": "7",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 80
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a08"
+        },
+        "adoszam": 61735,
+        "utca": "Zsomboly",
+        "hazszam": "8",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 203
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a0a"
+        },
+        "adoszam": 25820,
+        "utca": "Zsomboly",
+        "hazszam": "12",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 98
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a0c"
+        },
+        "adoszam": 65000,
+        "utca": "Zsomboly",
+        "hazszam": "15",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 77
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a0b"
+        },
+        "adoszam": 95126,
+        "utca": "Zsomboly",
+        "hazszam": "14",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 47
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a0d"
+        },
+        "adoszam": 67529,
+        "utca": "Zsomboly",
+        "hazszam": "16",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 154
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a0e"
+        },
+        "adoszam": 21824,
+        "utca": "Zsomboly",
+        "hazszam": "18",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 298
+    },
+    {
+        "_id": {
+            "$oid": "63f68e52d76809d455908a0f"
+        },
+        "adoszam": 12345,
+        "utca": "Zsomboly",
+        "hazszam": "20",
+        "adosav_id": {
+            "$oid": "63f68e47b45431db30a4ed1f"
+        },
+        "terulet": 134
+    }
+]
