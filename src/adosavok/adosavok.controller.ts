@@ -96,7 +96,7 @@ export default class adosavokController implements Controller {
             const id = req.params.id;
             const isDocumentExists = await this.adosavokM.findById(id);
             if (isDocumentExists) {
-                const hasRelation = await this.utcakM.findOne({ adosav: { $eq: id } });
+                const hasRelation = await this.utcakM.findOne({ adosav_id: { $eq: id } });
                 if (hasRelation) {
                     // can't delete:
                     // res.status(400).send({ message: `Document with id ${id} has relation(s), you can't delete!` });
