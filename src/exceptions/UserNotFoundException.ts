@@ -2,6 +2,6 @@ import HttpException from "./HttpException";
 
 export default class UserNotFoundException extends HttpException {
     constructor(id: string) {
-        super(404, `User with id ${id} not found`);
+        super(404, `Ezzel az azonosítóval (${id}) nincs felhasználó!`);
     }
 }

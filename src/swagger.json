@@ -7,10 +7,10 @@
     },
     "servers": [
         {
-            "url": "http://localhost:5000"
+            "url": "https://epitmenyado.cyclic.app"
         },
         {
-            "url": "https://epitmenyado.cyclic.app"
+            "url": "http://localhost:5000"
         }
     ],
     "paths": {
@@ -402,62 +402,6 @@
                     }
                 }
             },
-            "put": {
-                "tags": ["users"],
-                "summary": "felhasználó módosítása (PUT).",
-                "description": "A paraméterben megadott felhasználó adatait módosítja a végpont PUT metódussal.",
-                "parameters": [
-                    {
-                        "name": "id",
-                        "description": "A PUT metódussal módosítandó felhasználó azonosítója (PK).",
-                        "in": "path",
-                        "schema": {
-                            "type": "string",
-                            "example": "61b5f28df39e4edcf5b8a3e7"
-                        },
-                        "required": true
-                    }
-                ],
-                "requestBody": {
-                    "content": {
-                        "application/json": {
-                            "schema": {
-                                "type": "object",
-                                "$ref": "#/components/schemas/user"
-                            }
-                        }
-                    }
-                },
-                "responses": {
-                    "200": {
-                        "description": "OK (A módosított felhasználó adataival tér vissza.)",
-                        "content": {
-                            "application/json": {
-                                "schema": {
-                                    "type": "object",
-                                    "$ref": "#/components/schemas/user"
-                                }
-                            }
-                        }
-                    },
-                    "404": {
-                        "description": "Not Found",
-                        "content": {
-                            "application/json": {
-                                "schema": {
-                                    "type": "object",
-                                    "properties": {
-                                        "message": {
-                                            "type": "string",
-                                            "example": "A megadott felhasználó (id) nem létezik."
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            },
             "delete": {
                 "tags": ["users"],
                 "summary": "felhasználó törlése.",
@@ -505,7 +449,6 @@
                 }
             }
         },
-
 
         "/adosavok": {
             "get": {
@@ -588,8 +531,8 @@
                         "description": "Az adósáv azonosítója.",
                         "in": "path",
                         "schema": {
-                            "type": "number",
-                            "example": 2
+                            "type": "string",
+                            "example": "63f68e47b45431db30a4ed1f"
                         },
                         "required": true
                     }
@@ -644,8 +587,8 @@
                         "description": "A PATCH metódussal módosítandó adósáv azonosítója (PK).",
                         "in": "path",
                         "schema": {
-                            "type": "number",
-                            "example": 3
+                            "type": "string",
+                            "example": "63f68e47b45431db30a4ed1f"
                         },
                         "required": true
                     }
@@ -700,8 +643,8 @@
                         "description": "A PUT metódussal módosítandó adósáv azonosítója (PK).",
                         "in": "path",
                         "schema": {
-                            "type": "number",
-                            "example": 3
+                            "type": "string",
+                            "example": "63f68e47b45431db30a4ed1f"
                         },
                         "required": true
                     }
@@ -748,7 +691,7 @@
             },
             "delete": {
                 "tags": ["adosavok"],
-                "summary": "felhasználó törlése.",
+                "summary": "Adósáv törlése.",
                 "description": "A paraméterben megadott adósávot törli a végpont.",
                 "parameters": [
                     {
@@ -756,8 +699,8 @@
                         "description": "A törlendő adósáv azonosítója (PK).",
                         "in": "path",
                         "schema": {
-                            "type": "number",
-                            "example": 99
+                            "type": "string",
+                            "example": "63f68e47b45431db30a4ed1f"
                         },
                         "required": true
                     }
@@ -800,64 +743,6 @@
                                         "message": {
                                             "type": "string",
                                             "example": "A megadott (id) adósávra még hivatkoznak, nem törölhető!"
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "/adosavok/{sav}/hirdetesek": {
-            "get": {
-                "tags": ["adosavok"],
-                "summary": "Ingatlanok lekérdezése felhasználónév szerint.",
-                "description": "A 'sav' paraméterben megadott adósávval és a adósáv összes ingatlanával tér vissza a végpont.",
-                "parameters": [
-                    {
-                        "name": "kategoriaNev",
-                        "description": "Az adósáv neve.",
-                        "in": "path",
-                        "schema": {
-                            "type": "string",
-                            "example": "Személyautó"
-                        },
-                        "required": true
-                    }
-                ],
-                "responses": {
-                    "200": {
-                        "description": "OK",
-                        "content": {
-                            "application/json": {
-                                "schema": {
-                                    "type": "object",
-                                    "$ref": "#/components/schemas/adosavok"
-                                }
-                            }
-                        }
-                    },
-                    "400": {
-                        "description": "Bad Request",
-                        "content": {
-                            "application/json": {
-                                "schema": {
-                                    "$ref": "#/components/schemas/ErrorSchema"
-                                }
-                            }
-                        }
-                    },
-                    "404": {
-                        "description": "Not Found",
-                        "content": {
-                            "application/json": {
-                                "schema": {
-                                    "type": "object",
-                                    "properties": {
-                                        "message": {
-                                            "type": "string",
-                                            "example": "Ebben az adósávban nem találtam ingatlant!"
                                         }
                                     }
                                 }
@@ -1424,7 +1309,7 @@
                         "description": "Az adó mértéke négyzetméterenként.",
                         "example": 8000
                     },
-                    "határ": {
+                    "hatar": {
                         "type": "number",
                         "description": "Az ingatlan távolsága a Balatontól",
                         "example": 300
@@ -1526,7 +1411,6 @@
                         "$ref": "#/components/schemas/address",
                         "description": "A felhasználó lakcíme.",
                         "example": true
-                        
                     }
                 }
             },

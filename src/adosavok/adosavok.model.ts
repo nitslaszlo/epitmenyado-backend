@@ -5,7 +5,7 @@ import IAdosavok from "./adosavok.interface";
 
 const AdosavokSchema = new Schema<IAdosavok>(
     {
-        _id: Schema.Types.ObjectId,
+        // _id: Schema.Types.ObjectId,
         sav: {
             type: String,
             required: true,

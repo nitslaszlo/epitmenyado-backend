@@ -6,7 +6,6 @@ import IUtcak from "./utcak.interface";
 
 const UtcakSchema = new Schema<IUtcak>(
     {
-        _id: Schema.Types.ObjectId,
         adoszam: {
             type: Number,
             required: true,

@@ -7,7 +7,11 @@ import HttpException from "../exceptions/HttpException";
 // eslint-disable-next-line @typescript-eslint/no-explicit-any, @typescript-eslint/explicit-module-boundary-types
 export default function validationMiddleware(type: any, skipMissingProp = false): express.RequestHandler {
     return (req, res, next) => {
-        validate(plainToInstance(type, req.body), { skipMissingProperties: skipMissingProp, whitelist: true, forbidNonWhitelisted: true }).then((errors: ValidationError[]) => {
+        validate(plainToInstance(type, req.body), {
+            skipMissingProperties: skipMissingProp,
+            whitelist: true,
+            forbidNonWhitelisted: true,
+        }).then((errors: ValidationError[]) => {
             if (errors.length > 0) {
                 let message: string = "";
                 for (const e of errors) {

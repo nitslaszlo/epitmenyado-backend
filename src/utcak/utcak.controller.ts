@@ -56,7 +56,9 @@ export default class utcakController implements Controller {
             let count = 0;
             if (req.params.keyword) {
                 const regex = new RegExp(req.params.keyword, "i"); // i for case insensitive
-                count = await this.utcakM.find({ $or: [{ utca: { $regex: regex } }, { hazszam: { $regex: regex } }] }).count();
+                count = await this.utcakM
+                    .find({ $or: [{ utca: { $regex: regex } }, { hazszam: { $regex: regex } }] })
+                    .count();
                 utcak = await this.utcakM
                     .find({ $or: [{ utca: { $regex: regex } }, { hazszam: { $regex: regex } }] })
                     .populate("adosav_id", "-_id")

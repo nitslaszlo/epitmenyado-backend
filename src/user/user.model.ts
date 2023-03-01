@@ -14,10 +14,17 @@ const addressSchema = new Schema<IAddress>(
 
 const userSchema = new Schema<IUser>(
     {
-        _id: Schema.Types.ObjectId,
         address: addressSchema,
-        email: String,
-        name: String,
+        email: {
+            type: String,
+            required: true,
+            unique: true,
+        },
+        name: {
+            type: String,
+            required: true,
+            unique: true,
+        },
         password: String,
         auto_login: Boolean,
     },
