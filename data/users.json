@@ -12,6 +12,7 @@
             }
         },
         "email": "student005@jedlik.eu",
+        "auto_login": true,
         "name": "student005",
         "password": "$2b$10$HBH36EkxhwwOcI7UM/Km3uHUcgwPJjleZYS9fqOgjIr.qmvTUlGPu"
     },
@@ -28,6 +29,7 @@
             }
         },
         "email": "student003@jedlik.eu",
+        "auto_login": true,
         "name": "student003",
         "password": "$2b$10$WTvhxEncr.YdgIquNpob8OpWqf5hNWEynKNFyQukvmtM/DzRt9ulW"
     },
@@ -44,6 +46,7 @@
             }
         },
         "email": "student002@jedlik.eu",
+        "auto_login": false,
         "name": "student002",
         "password": "$2b$10$Rp5avm47rbRHxJxy8sEVueBTLYFAyrVIFiAebUAJDMKlM5raFnwpi"
     },
@@ -60,6 +63,7 @@
             }
         },
         "email": "student001@jedlik.eu",
+        "auto_login": true,
         "name": "student001",
         "password": "$2b$10$9Czj8XCCZ6Wg5h9HSngl2eMqAO0Pk/LFmf.LrfeLKDXsBQaI07Pv."
     },
@@ -76,6 +80,7 @@
             }
         },
         "email": "student004@jedlik.eu",
+        "auto_login": false,
         "name": "student004",
         "password": "$2b$10$saCo0rqdGbIiacjcZ60CGuGw8QhA8tgh3gfn0w.LFaVlyPJzd9zA6"
     }

@@ -29,11 +29,11 @@ export default class AuthenticationController implements IController {
         this.router.get("/", (req: Request, res: Response) => {
             res.send("Jedlik-Express-Mongoose-TS-Session-Backend API - Swagger: <a href='https://jedliksession.cyclic.app/docs'>https://jedliksession.cyclic.app/docs</a>");
         });
-        this.router.post(`${this.path}/register`, validationMiddleware(CreateUserDto), this.registration);
         this.router.post(`${this.path}/login`, validationMiddleware(LogInDto), this.login);
+        this.router.post(`${this.path}/logout`, this.logout);
+        this.router.post(`${this.path}/register`, validationMiddleware(CreateUserDto), this.registration);
         this.router.post(`${this.path}/autologin`, this.autoLogin);
         this.router.post(`${this.path}/closeapp`, this.closeApp);
-        this.router.post(`${this.path}/logout`, this.logout);
         this.router.post(`${this.path}/google`, this.loginAndRegisterWithGoogle);
     }
 
@@ -74,7 +74,7 @@ export default class AuthenticationController implements IController {
                 (req.session as ISession).isLoggedIn = true;
                 res.send(user);
             } else {
-                next(new HttpException(404, "Please log in!"));
+                next(new HttpException(401, "Please log in!"));
             }
             // req.sessionStore.get(req.session.id, (error, s: ISession) => {
             //     if (error || !s.user_email) {
@@ -86,7 +86,7 @@ export default class AuthenticationController implements IController {
             //     }
             // });
         } else {
-            next(new HttpException(404, "Please log in!"));
+            next(new HttpException(401, "Please log in!"));
         }
     };
 
@@ -164,6 +164,7 @@ export default class AuthenticationController implements IController {
                     const googleUser = userInfo as IGoogleUserInfo;
                     this.user.findOne({ email: googleUser.email }).then(user => {
                         if (user) {
+                            // Login with Google account
                             req.session.regenerate(error => {
                                 if (error) {
                                     next(new HttpException(400, error.message)); // to do
@@ -176,7 +177,7 @@ export default class AuthenticationController implements IController {
                                 res.send(user);
                             });
                         } else {
-                            // Register as new Google user
+                            // Register with Google account
                             this.user
                                 .create({
                                     ...googleUser,

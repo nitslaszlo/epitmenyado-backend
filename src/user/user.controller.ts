@@ -23,9 +23,7 @@ export default class UserController implements Controller {
     private initializeRoutes() {
         this.router.get(`${this.path}/:id`, authMiddleware, this.getUserById);
         this.router.get(this.path, authMiddleware, this.getAllUsers);
-
         this.router.patch(`${this.path}/:id`, [authMiddleware, validationMiddleware(CreateUserDto, true)], this.modifyUser);
-
         this.router.delete(`${this.path}/:id`, authMiddleware, this.deleteUser);
     }
 
