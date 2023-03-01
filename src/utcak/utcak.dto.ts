@@ -1,8 +1,10 @@
-import { IsNumber, IsString } from "class-validator";
+import { IsMongoId, IsNumber, IsOptional, IsString } from "class-validator";
+import { Schema } from "mongoose";
 
 export default class CreateUtcakDto {
-    @IsNumber()
-    public _id: number;
+    @IsMongoId()
+    @IsOptional()
+    public _id: Schema.Types.ObjectId;
 
     @IsNumber()
     public adoszam: number;

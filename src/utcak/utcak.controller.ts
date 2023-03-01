@@ -1,11 +1,12 @@
-import { Request, Response, Router, NextFunction } from "express";
-import Controller from "../interfaces/controller.interface";
-import IUtcak from "./utcak.interface";
-import utcakModel from "./utcak.model";
+import { NextFunction, Request, Response, Router } from "express";
+
 import HttpException from "../exceptions/HttpException";
+import Controller from "../interfaces/controller.interface";
 import authMiddleware from "../middleware/auth.middleware";
 import validationMiddleware from "../middleware/validation.middleware";
 import CreateUtcakDto from "./utcak.dto";
+import IUtcak from "./utcak.interface";
+import utcakModel from "./utcak.model";
 
 export default class utcakController implements Controller {
     public path = "/utcak";

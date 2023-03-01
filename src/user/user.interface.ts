@@ -1,12 +1,11 @@
-import { Types } from "mongoose";
-export default interface User {
-    _id: Types.ObjectId | string;
+import { Schema } from "mongoose";
+
+import IAddress from "./address.interface";
+export default interface IUser {
+    _id?: Schema.Types.ObjectId;
     name: string;
     email: string;
     password: string;
-    address?: {
-        street: string;
-        city: string;
-        country: string;
-    };
+    auto_login: boolean;
+    address?: IAddress;
 }

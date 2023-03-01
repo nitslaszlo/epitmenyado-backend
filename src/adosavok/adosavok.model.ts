@@ -1,12 +1,11 @@
-import { SchemaTypes } from "mongoose";
-// https://mongoosejs.com/docs/validation.html#built-in-validators
+import { model, Schema } from "mongoose";
 
-import { Schema, model } from "mongoose";
+// https://mongoosejs.com/docs/validation.html#built-in-validators
 import IAdosavok from "./adosavok.interface";
 
 const AdosavokSchema = new Schema<IAdosavok>(
     {
-        _id: SchemaTypes.ObjectId,
+        _id: Schema.Types.ObjectId,
         sav: {
             type: String,
             required: true,

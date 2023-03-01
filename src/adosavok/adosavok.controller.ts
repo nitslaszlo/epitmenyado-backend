@@ -1,12 +1,13 @@
-import { Request, Response, Router, NextFunction } from "express";
-import Controller from "../interfaces/controller.interface";
-import adosavokModel from "./adosavok.model";
+import { NextFunction, Request, Response, Router } from "express";
+
 import HttpException from "../exceptions/HttpException";
+import Controller from "../interfaces/controller.interface";
 import authMiddleware from "../middleware/auth.middleware";
-import IAdosavok from "./adosavok.interface";
-import utcakModel from "../utcak/utcak.model";
 import validationMiddleware from "../middleware/validation.middleware";
+import utcakModel from "../utcak/utcak.model";
 import CreateAdosavokDto from "./adosavok.dto";
+import IAdosavok from "./adosavok.interface";
+import adosavokModel from "./adosavok.model";
 
 export default class adosavokController implements Controller {
     public path = "/adosavok";
