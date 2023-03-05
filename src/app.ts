@@ -123,10 +123,8 @@ export default class App {
     private connectToTheDatabase() {
         // Connect to MongoDB Atlas, create database if not exist:
         mongoose.set("strictQuery", true); // for disable DeprecationWarning
-        mongoose.connect(process.env.MONGO_URI, { dbName: process.env.MONGO_DB }, err => {
-            if (err) {
-                console.log("Unable to connect to the server. Please start MongoDB.");
-            }
+        mongoose.connect(process.env.MONGO_URI, { dbName: process.env.MONGO_DB }).catch(() => {
+            console.log("Unable to connect to the server. Please start MongoDB.");
         });
 
         mongoose.connection.on("error", error => {

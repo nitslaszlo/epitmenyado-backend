@@ -301,7 +301,7 @@
                         "in": "path",
                         "schema": {
                             "type": "string",
-                            "example": "61b5f28df39e4edcf5b8a3e7"
+                            "example": "61b5e9c0f39e4edcf5b8a3b9"
                         },
                         "required": true
                     }
@@ -357,7 +357,7 @@
                         "in": "path",
                         "schema": {
                             "type": "string",
-                            "example": "61b5f28df39e4edcf5b8a3e7"
+                            "example": "61b5e9c0f39e4edcf5b8a3b9"
                         },
                         "required": true
                     }
