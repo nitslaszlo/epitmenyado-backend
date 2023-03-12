@@ -16,7 +16,7 @@ export default class utcakController implements Controller {
     constructor() {
         this.router.get(this.path, this.getAll);
         this.router.get(`${this.path}/:id`, authMiddleware, this.getById);
-        this.router.get(`${this.path}/:offset/:limit/:order/:sort/:keyword?`, authMiddleware, this.getPaginatedUtcak);
+        this.router.get(`${this.path}/:offset/:limit/:sort/:keyword?`, authMiddleware, this.getPaginatedUtcak);
         this.router.post(this.path, [authMiddleware, validationMiddleware(CreateUtcakDto, false)], this.create);
         this.router.patch(`${this.path}/:id`, authMiddleware, this.modifyPATCH);
         this.router.put(`${this.path}/:id`, authMiddleware, this.modifyPUT);
@@ -50,8 +50,7 @@ export default class utcakController implements Controller {
         try {
             const offset = parseInt(req.params.offset);
             const limit = parseInt(req.params.limit);
-            const order = req.params.order;
-            const sort = parseInt(req.params.sort); // desc: -1  asc: 1
+            const sort = req.params.sort;
             let utcak = [];
             let count = 0;
             if (req.params.keyword) {
@@ -62,7 +61,7 @@ export default class utcakController implements Controller {
                 utcak = await this.utcakM
                     .find({ $or: [{ utca: { $regex: regex } }, { hazszam: { $regex: regex } }] })
                     .populate("adosav_id", "-_id")
-                    .sort(`${sort == -1 ? "-" : ""}${order}`)
+                    .sort(`${sort}`)
                     .skip(offset)
                     .limit(limit);
             } else {
@@ -70,7 +69,7 @@ export default class utcakController implements Controller {
                 utcak = await this.utcakM
                     .find({})
                     .populate("adosav_id", "-_id")
-                    .sort(`${sort == -1 ? "-" : ""}${order}`)
+                    .sort(`${sort}`)
                     .skip(offset)
                     .limit(limit);
             }
